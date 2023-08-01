@@ -2,7 +2,7 @@
 
 [中文简介](./README.cn.md)
 
-preview: [website](http://3.139.72.119:3000/en)
+preview: [website](http://18.216.213.70:3000/) (maybe difficult for chinese people) 
 
 ### feature
 
